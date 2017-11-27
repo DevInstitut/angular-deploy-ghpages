@@ -17,7 +17,7 @@
     "prep": [
       "build"
     ],
-    "noprompt": true
+    "noprompt": false
   },
   "private": true,
   "dependencies": {
