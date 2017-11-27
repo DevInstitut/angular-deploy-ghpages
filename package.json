@@ -17,9 +17,6 @@
     "prep": [
       "build"
     ],
-    "post": [
-      "clean-dist"
-    ],
     "noprompt": true
   },
   "private": true,
